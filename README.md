@@ -1,6 +1,6 @@
 # PathFinder 🚀
 
-![PathFinder Home Screenshot](./assets/pathfinder.png)
+![PathFinder Home Screenshot](./src/assets/pathfinder.png)
 
 PathFinder is a modern, visually stunning React.js web application designed to help users discover their ideal career paths in the Indian job market. Leveraging a beautiful glassmorphism UI, PathFinder provides comprehensive information on 40+ career options, required skills, salary insights, and growth opportunities—all tailored for the Indian context.
 
