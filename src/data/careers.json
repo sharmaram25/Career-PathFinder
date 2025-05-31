@@ -1,0 +1,1336 @@
+{
+  "careers": [
+    {
+      "id": "software-engineer",
+      "title": "Software Engineer",
+      "description": "Design, develop, and maintain software applications for various platforms.",
+      "popularity": 95,
+      "averageSalary": "₹6,00,000 - ₹20,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science or equivalent",
+      "growthPath": ["Senior Software Engineer", "Tech Lead", "Engineering Manager", "CTO"],
+      "skills": [
+        {
+          "category": "Programming Languages",
+          "items": [
+            { "name": "JavaScript", "level": "intermediate" },
+            { "name": "Python", "level": "intermediate" },
+            { "name": "Java", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Web Development",
+          "items": [
+            { "name": "HTML/CSS", "level": "intermediate" },
+            { "name": "React.js", "level": "intermediate" },
+            { "name": "Node.js", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Tools & Practices",
+          "items": [
+            { "name": "Git", "level": "intermediate" },
+            { "name": "Agile Methodology", "level": "beginner" },
+            { "name": "Testing", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "data-scientist",
+      "title": "Data Scientist",
+      "description": "Analyze complex data sets to identify patterns and help make business decisions.",
+      "popularity": 90,
+      "averageSalary": "₹7,00,000 - ₹25,00,000 per annum",
+      "timeToLearn": "8 months - 2 years",
+      "requiredEducation": "Bachelor's or Master's in Statistics, Computer Science, Mathematics or related field",
+      "growthPath": ["Senior Data Scientist", "Data Science Manager", "AI Research Lead", "Chief Data Officer"],
+      "skills": [
+        {
+          "category": "Programming Languages",
+          "items": [
+            { "name": "Python", "level": "advanced" },
+            { "name": "R", "level": "intermediate" },
+            { "name": "SQL", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Data Analysis",
+          "items": [
+            { "name": "Machine Learning", "level": "intermediate" },
+            { "name": "Statistical Analysis", "level": "advanced" },
+            { "name": "Data Visualization", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Tools & Frameworks",
+          "items": [
+            { "name": "TensorFlow/PyTorch", "level": "intermediate" },
+            { "name": "Pandas/NumPy", "level": "advanced" },
+            { "name": "Jupyter Notebooks", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital-marketing-specialist",
+      "title": "Digital Marketing Specialist",
+      "description": "Create and execute digital marketing strategies to promote products and services online.",
+      "popularity": 85,
+      "averageSalary": "₹3,50,000 - ₹12,00,000 per annum",
+      "timeToLearn": "3 months - 1 year",
+      "requiredEducation": "Bachelor's in Marketing, Mass Communication or related field",
+      "growthPath": ["Senior Digital Marketer", "Marketing Manager", "Growth Hacker", "CMO"],
+      "skills": [
+        {
+          "category": "Marketing Platforms",
+          "items": [
+            { "name": "Google Ads", "level": "intermediate" },
+            { "name": "Facebook Ads Manager", "level": "intermediate" },
+            { "name": "LinkedIn Marketing", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Analytics & Tools",
+          "items": [
+            { "name": "Google Analytics", "level": "intermediate" },
+            { "name": "SEO", "level": "intermediate" },
+            { "name": "Content Marketing", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Creative Skills",
+          "items": [
+            { "name": "Copywriting", "level": "intermediate" },
+            { "name": "Graphic Design", "level": "beginner" },
+            { "name": "Video Editing", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ui-ux-designer",
+      "title": "UI/UX Designer",
+      "description": "Create intuitive and visually appealing user interfaces and experiences for digital products.",
+      "popularity": 80,
+      "averageSalary": "₹4,00,000 - ₹15,00,000 per annum",
+      "timeToLearn": "4 months - 1.5 years",
+      "requiredEducation": "Bachelor's in Design, Fine Arts or related field",
+      "growthPath": ["Senior UX Designer", "Lead Designer", "Design Manager", "Chief Design Officer"],
+      "skills": [
+        {
+          "category": "Design Tools",
+          "items": [
+            { "name": "Figma", "level": "advanced" },
+            { "name": "Adobe XD", "level": "intermediate" },
+            { "name": "Sketch", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Design Principles",
+          "items": [
+            { "name": "User Research", "level": "intermediate" },
+            { "name": "Wireframing", "level": "intermediate" },
+            { "name": "Prototyping", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Technical Skills",
+          "items": [
+            { "name": "HTML/CSS", "level": "beginner" },
+            { "name": "Design Systems", "level": "intermediate" },
+            { "name": "Usability Testing", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "product-manager",
+      "title": "Product Manager",
+      "description": "Oversee product development from conception to launch, ensuring market fit and user satisfaction.",
+      "popularity": 75,
+      "averageSalary": "₹8,00,000 - ₹30,00,000 per annum",
+      "timeToLearn": "1 year - 3 years",
+      "requiredEducation": "Bachelor's in Business, Engineering or related field + MBA preferred",
+      "growthPath": ["Senior Product Manager", "Director of Product", "VP Product", "CPO"],
+      "skills": [
+        {
+          "category": "Product Strategy",
+          "items": [
+            { "name": "Market Research", "level": "intermediate" },
+            { "name": "Product Roadmapping", "level": "intermediate" },
+            { "name": "Competitive Analysis", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Analytics & Data",
+          "items": [
+            { "name": "Product Analytics", "level": "intermediate" },
+            { "name": "A/B Testing", "level": "intermediate" },
+            { "name": "KPI Tracking", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Leadership",
+          "items": [
+            { "name": "Cross-functional Collaboration", "level": "advanced" },
+            { "name": "Stakeholder Management", "level": "intermediate" },
+            { "name": "Agile Methodology", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cybersecurity-analyst",
+      "title": "Cybersecurity Analyst",
+      "description": "Protect organizations from cyber threats by monitoring, detecting, and responding to security incidents.",
+      "popularity": 88,
+      "averageSalary": "₹5,00,000 - ₹18,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Cybersecurity or related field",
+      "growthPath": ["Senior Security Analyst", "Security Architect", "CISO", "Security Consultant"],
+      "skills": [
+        {
+          "category": "Security Tools",
+          "items": [
+            { "name": "SIEM Tools", "level": "intermediate" },
+            { "name": "Vulnerability Scanners", "level": "intermediate" },
+            { "name": "Penetration Testing", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Networking",
+          "items": [
+            { "name": "Network Security", "level": "intermediate" },
+            { "name": "Firewalls", "level": "intermediate" },
+            { "name": "Intrusion Detection", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Compliance",
+          "items": [
+            { "name": "Risk Assessment", "level": "intermediate" },
+            { "name": "Security Policies", "level": "intermediate" },
+            { "name": "Incident Response", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-analyst",
+      "title": "Business Analyst",
+      "description": "Bridge the gap between business needs and technology solutions by analyzing processes and requirements.",
+      "popularity": 82,
+      "averageSalary": "₹4,50,000 - ₹16,00,000 per annum",
+      "timeToLearn": "4 months - 1.5 years",
+      "requiredEducation": "Bachelor's in Business Administration, Economics or related field",
+      "growthPath": ["Senior Business Analyst", "Business Consultant", "Project Manager", "Operations Manager"],
+      "skills": [
+        {
+          "category": "Analysis Tools",
+          "items": [
+            { "name": "Excel/Google Sheets", "level": "advanced" },
+            { "name": "SQL", "level": "intermediate" },
+            { "name": "Power BI/Tableau", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Business Skills",
+          "items": [
+            { "name": "Requirements Gathering", "level": "intermediate" },
+            { "name": "Process Mapping", "level": "intermediate" },
+            { "name": "Stakeholder Communication", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Documentation",
+          "items": [
+            { "name": "Technical Writing", "level": "intermediate" },
+            { "name": "User Stories", "level": "intermediate" },
+            { "name": "Use Case Development", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "content-writer",
+      "title": "Content Writer",
+      "description": "Create engaging written content for websites, blogs, social media, and marketing materials.",
+      "popularity": 70,
+      "averageSalary": "₹2,50,000 - ₹8,00,000 per annum",
+      "timeToLearn": "2 months - 8 months",
+      "requiredEducation": "Bachelor's in English, Journalism, Mass Communication or related field",
+      "growthPath": ["Senior Content Writer", "Content Manager", "Content Strategist", "Editorial Director"],
+      "skills": [
+        {
+          "category": "Writing Skills",
+          "items": [
+            { "name": "Creative Writing", "level": "advanced" },
+            { "name": "Technical Writing", "level": "intermediate" },
+            { "name": "Copywriting", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "SEO & Marketing",
+          "items": [
+            { "name": "SEO Writing", "level": "intermediate" },
+            { "name": "Keyword Research", "level": "intermediate" },
+            { "name": "Content Strategy", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Tools",
+          "items": [
+            { "name": "WordPress", "level": "intermediate" },
+            { "name": "Google Docs", "level": "advanced" },
+            { "name": "Grammarly", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devops-engineer",
+      "title": "DevOps Engineer",
+      "description": "Bridge development and operations teams to improve collaboration and accelerate software delivery.",
+      "popularity": 85,
+      "averageSalary": "₹7,00,000 - ₹22,00,000 per annum",
+      "timeToLearn": "8 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Engineering or related field",
+      "growthPath": ["Senior DevOps Engineer", "DevOps Architect", "Site Reliability Engineer", "Engineering Manager"],
+      "skills": [
+        {
+          "category": "Cloud Platforms",
+          "items": [
+            { "name": "AWS", "level": "intermediate" },
+            { "name": "Azure", "level": "intermediate" },
+            { "name": "Google Cloud", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Automation & CI/CD",
+          "items": [
+            { "name": "Jenkins", "level": "intermediate" },
+            { "name": "Docker", "level": "intermediate" },
+            { "name": "Kubernetes", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Infrastructure",
+          "items": [
+            { "name": "Terraform", "level": "intermediate" },
+            { "name": "Linux", "level": "intermediate" },
+            { "name": "Monitoring Tools", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mobile-app-developer",
+      "title": "Mobile App Developer",
+      "description": "Create applications for mobile devices using various platforms and technologies.",
+      "popularity": 78,
+      "averageSalary": "₹4,50,000 - ₹18,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science or related field",
+      "growthPath": ["Senior Mobile Developer", "Mobile Tech Lead", "Mobile Architect", "Engineering Manager"],
+      "skills": [
+        {
+          "category": "Mobile Platforms",
+          "items": [
+            { "name": "React Native", "level": "intermediate" },
+            { "name": "Flutter", "level": "intermediate" },
+            { "name": "Swift (iOS)", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Programming Languages",
+          "items": [
+            { "name": "JavaScript", "level": "intermediate" },
+            { "name": "Dart", "level": "intermediate" },
+            { "name": "Kotlin", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Mobile Development",
+          "items": [
+            { "name": "API Integration", "level": "intermediate" },
+            { "name": "Mobile UI/UX", "level": "intermediate" },
+            { "name": "App Store Deployment", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-designer",
+      "title": "Graphic Designer",
+      "description": "Create visual content for print and digital media to communicate messages effectively.",
+      "popularity": 65,
+      "averageSalary": "₹2,80,000 - ₹10,00,000 per annum",
+      "timeToLearn": "3 months - 1 year",
+      "requiredEducation": "Bachelor's in Graphic Design, Fine Arts or related field",
+      "growthPath": ["Senior Graphic Designer", "Art Director", "Creative Director", "Brand Manager"],
+      "skills": [
+        {
+          "category": "Design Software",
+          "items": [
+            { "name": "Adobe Photoshop", "level": "advanced" },
+            { "name": "Adobe Illustrator", "level": "advanced" },
+            { "name": "Adobe InDesign", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Design Principles",
+          "items": [
+            { "name": "Typography", "level": "intermediate" },
+            { "name": "Color Theory", "level": "intermediate" },
+            { "name": "Layout Design", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Specializations",
+          "items": [
+            { "name": "Brand Identity", "level": "intermediate" },
+            { "name": "Print Design", "level": "intermediate" },
+            { "name": "Digital Graphics", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hr-specialist",
+      "title": "HR Specialist",
+      "description": "Manage human resources functions including recruitment, employee relations, and organizational development.",
+      "popularity": 60,
+      "averageSalary": "₹3,50,000 - ₹12,00,000 per annum",
+      "timeToLearn": "4 months - 1 year",
+      "requiredEducation": "Bachelor's in Human Resources, Psychology, Business Administration",
+      "growthPath": ["Senior HR Specialist", "HR Manager", "HR Director", "CHRO"],
+      "skills": [
+        {
+          "category": "HR Functions",
+          "items": [
+            { "name": "Recruitment & Selection", "level": "intermediate" },
+            { "name": "Employee Relations", "level": "intermediate" },
+            { "name": "Performance Management", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "HR Technology",
+          "items": [
+            { "name": "HRMS Software", "level": "intermediate" },
+            { "name": "Applicant Tracking Systems", "level": "intermediate" },
+            { "name": "Payroll Systems", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Soft Skills",
+          "items": [
+            { "name": "Communication", "level": "advanced" },
+            { "name": "Conflict Resolution", "level": "intermediate" },
+            { "name": "Labor Law Knowledge", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "financial-analyst",
+      "title": "Financial Analyst",
+      "description": "Analyze financial data and trends to help organizations make informed business decisions.",
+      "popularity": 72,
+      "averageSalary": "₹4,00,000 - ₹15,00,000 per annum",
+      "timeToLearn": "6 months - 1.5 years",
+      "requiredEducation": "Bachelor's in Finance, Economics, Accounting or related field",
+      "growthPath": ["Senior Financial Analyst", "Finance Manager", "Finance Director", "CFO"],
+      "skills": [
+        {
+          "category": "Financial Analysis",
+          "items": [
+            { "name": "Financial Modeling", "level": "intermediate" },
+            { "name": "Valuation Methods", "level": "intermediate" },
+            { "name": "Risk Assessment", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Tools & Software",
+          "items": [
+            { "name": "Excel", "level": "advanced" },
+            { "name": "Bloomberg Terminal", "level": "beginner" },
+            { "name": "SQL", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Knowledge Areas",
+          "items": [
+            { "name": "Accounting Principles", "level": "intermediate" },
+            { "name": "Market Analysis", "level": "intermediate" },
+            { "name": "Investment Analysis", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sales-executive",
+      "title": "Sales Executive",
+      "description": "Generate revenue by selling products or services to potential customers and maintaining client relationships.",
+      "popularity": 68,
+      "averageSalary": "₹3,00,000 - ₹15,00,000 per annum",
+      "timeToLearn": "2 months - 8 months",
+      "requiredEducation": "Bachelor's in Business, Marketing or any field",
+      "growthPath": ["Senior Sales Executive", "Sales Manager", "Sales Director", "VP Sales"],
+      "skills": [
+        {
+          "category": "Sales Skills",
+          "items": [
+            { "name": "Lead Generation", "level": "intermediate" },
+            { "name": "Negotiation", "level": "intermediate" },
+            { "name": "Closing Techniques", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "CRM & Tools",
+          "items": [
+            { "name": "Salesforce", "level": "intermediate" },
+            { "name": "LinkedIn Sales Navigator", "level": "intermediate" },
+            { "name": "Email Marketing", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Communication",
+          "items": [
+            { "name": "Presentation Skills", "level": "intermediate" },
+            { "name": "Customer Relationship Management", "level": "intermediate" },
+            { "name": "Product Knowledge", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "title": "Machine Learning Engineer",
+      "description": "Design and implement machine learning models and systems for production environments.",
+      "popularity": 92,
+      "averageSalary": "₹8,00,000 - ₹28,00,000 per annum",
+      "timeToLearn": "1 year - 3 years",
+      "requiredEducation": "Bachelor's/Master's in Computer Science, Mathematics, Statistics",
+      "growthPath": ["Senior ML Engineer", "ML Architect", "AI Research Scientist", "Head of AI"],
+      "skills": [
+        {
+          "category": "Programming & ML",
+          "items": [
+            { "name": "Python", "level": "advanced" },
+            { "name": "Machine Learning Algorithms", "level": "advanced" },
+            { "name": "Deep Learning", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "ML Frameworks",
+          "items": [
+            { "name": "TensorFlow", "level": "intermediate" },
+            { "name": "PyTorch", "level": "intermediate" },
+            { "name": "Scikit-learn", "level": "advanced" }
+          ]
+        },
+        {
+          "category": "MLOps & Deployment",
+          "items": [
+            { "name": "Model Deployment", "level": "intermediate" },
+            { "name": "Docker", "level": "intermediate" },
+            { "name": "Cloud Platforms", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blockchain-developer",
+      "title": "Blockchain Developer",
+      "description": "Develop decentralized applications and smart contracts using blockchain technology.",
+      "popularity": 75,
+      "averageSalary": "₹6,00,000 - ₹25,00,000 per annum",
+      "timeToLearn": "8 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science or related field",
+      "growthPath": ["Senior Blockchain Developer", "Blockchain Architect", "DApp Architect", "CTO"],
+      "skills": [
+        {
+          "category": "Blockchain Platforms",
+          "items": [
+            { "name": "Ethereum", "level": "intermediate" },
+            { "name": "Hyperledger", "level": "intermediate" },
+            { "name": "Solana", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Programming",
+          "items": [
+            { "name": "Solidity", "level": "intermediate" },
+            { "name": "JavaScript", "level": "intermediate" },
+            { "name": "Web3.js", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Concepts",
+          "items": [
+            { "name": "Smart Contracts", "level": "intermediate" },
+            { "name": "Cryptography", "level": "intermediate" },
+            { "name": "DeFi Protocols", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cloud-architect",
+      "title": "Cloud Architect",
+      "description": "Design and implement cloud computing strategies and infrastructure solutions.",
+      "popularity": 87,
+      "averageSalary": "₹10,00,000 - ₹35,00,000 per annum",
+      "timeToLearn": "1.5 years - 3 years",
+      "requiredEducation": "Bachelor's in Computer Science, Engineering + Cloud Certifications",
+      "growthPath": ["Senior Cloud Architect", "Principal Architect", "Chief Architect", "CTO"],
+      "skills": [
+        {
+          "category": "Cloud Platforms",
+          "items": [
+            { "name": "AWS", "level": "advanced" },
+            { "name": "Azure", "level": "intermediate" },
+            { "name": "Google Cloud Platform", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Architecture",
+          "items": [
+            { "name": "Microservices", "level": "intermediate" },
+            { "name": "Serverless Computing", "level": "intermediate" },
+            { "name": "API Design", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Security & Compliance",
+          "items": [
+            { "name": "Cloud Security", "level": "intermediate" },
+            { "name": "Identity Management", "level": "intermediate" },
+            { "name": "Compliance Frameworks", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "video-editor",
+      "title": "Video Editor",
+      "description": "Edit and produce video content for various platforms including social media, advertising, and entertainment.",
+      "popularity": 65,
+      "averageSalary": "₹2,50,000 - ₹12,00,000 per annum",
+      "timeToLearn": "3 months - 1 year",
+      "requiredEducation": "Bachelor's in Film Studies, Media or related field (optional)",
+      "growthPath": ["Senior Video Editor", "Post-Production Supervisor", "Creative Director", "Producer"],
+      "skills": [
+        {
+          "category": "Editing Software",
+          "items": [
+            { "name": "Adobe Premiere Pro", "level": "advanced" },
+            { "name": "Final Cut Pro", "level": "intermediate" },
+            { "name": "DaVinci Resolve", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Post-Production",
+          "items": [
+            { "name": "Color Grading", "level": "intermediate" },
+            { "name": "Audio Editing", "level": "intermediate" },
+            { "name": "Motion Graphics", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Creative Skills",
+          "items": [
+            { "name": "Storytelling", "level": "intermediate" },
+            { "name": "Rhythm & Pacing", "level": "intermediate" },
+            { "name": "Visual Effects", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "network-engineer",
+      "title": "Network Engineer",
+      "description": "Design, implement, and maintain computer networks for organizations.",
+      "popularity": 70,
+      "averageSalary": "₹4,50,000 - ₹16,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Network Engineering or related field",
+      "growthPath": ["Senior Network Engineer", "Network Architect", "IT Director", "CTO"],
+      "skills": [
+        {
+          "category": "Networking Protocols",
+          "items": [
+            { "name": "TCP/IP", "level": "advanced" },
+            { "name": "OSPF", "level": "intermediate" },
+            { "name": "BGP", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Network Equipment",
+          "items": [
+            { "name": "Cisco Devices", "level": "intermediate" },
+            { "name": "Juniper Networks", "level": "intermediate" },
+            { "name": "Network Security", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Monitoring & Troubleshooting",
+          "items": [
+            { "name": "Network Monitoring Tools", "level": "intermediate" },
+            { "name": "Packet Analysis", "level": "intermediate" },
+            { "name": "Performance Optimization", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-media-manager",
+      "title": "Social Media Manager",
+      "description": "Manage and grow social media presence for brands and organizations across various platforms.",
+      "popularity": 75,
+      "averageSalary": "₹3,00,000 - ₹10,00,000 per annum",
+      "timeToLearn": "2 months - 8 months",
+      "requiredEducation": "Bachelor's in Marketing, Communications or related field",
+      "growthPath": ["Senior Social Media Manager", "Digital Marketing Manager", "Brand Manager", "CMO"],
+      "skills": [
+        {
+          "category": "Social Platforms",
+          "items": [
+            { "name": "Instagram Marketing", "level": "intermediate" },
+            { "name": "Facebook Marketing", "level": "intermediate" },
+            { "name": "LinkedIn Marketing", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Content Creation",
+          "items": [
+            { "name": "Content Strategy", "level": "intermediate" },
+            { "name": "Graphic Design", "level": "beginner" },
+            { "name": "Video Content", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Analytics & Tools",
+          "items": [
+            { "name": "Social Media Analytics", "level": "intermediate" },
+            { "name": "Hootsuite/Buffer", "level": "intermediate" },
+            { "name": "Community Management", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "database-administrator",
+      "title": "Database Administrator",
+      "description": "Manage and maintain database systems to ensure data integrity, security, and performance.",
+      "popularity": 68,
+      "averageSalary": "₹5,00,000 - ₹18,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Information Technology or related field",
+      "growthPath": ["Senior DBA", "Database Architect", "Data Engineer", "IT Director"],
+      "skills": [
+        {
+          "category": "Database Systems",
+          "items": [
+            { "name": "MySQL", "level": "intermediate" },
+            { "name": "PostgreSQL", "level": "intermediate" },
+            { "name": "Oracle Database", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Database Management",
+          "items": [
+            { "name": "Performance Tuning", "level": "intermediate" },
+            { "name": "Backup & Recovery", "level": "intermediate" },
+            { "name": "Security Management", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Programming",
+          "items": [
+            { "name": "SQL", "level": "advanced" },
+            { "name": "Stored Procedures", "level": "intermediate" },
+            { "name": "Database Design", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technical-writer",
+      "title": "Technical Writer",
+      "description": "Create clear and concise documentation for technical products, processes, and procedures.",
+      "popularity": 55,
+      "averageSalary": "₹3,50,000 - ₹12,00,000 per annum",
+      "timeToLearn": "3 months - 1 year",
+      "requiredEducation": "Bachelor's in English, Technical Communication or related field",
+      "growthPath": ["Senior Technical Writer", "Documentation Manager", "Information Architect", "Content Strategy Lead"],
+      "skills": [
+        {
+          "category": "Writing Skills",
+          "items": [
+            { "name": "Technical Writing", "level": "advanced" },
+            { "name": "API Documentation", "level": "intermediate" },
+            { "name": "User Manual Creation", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Tools & Software",
+          "items": [
+            { "name": "Markdown", "level": "intermediate" },
+            { "name": "Confluence", "level": "intermediate" },
+            { "name": "GitBook", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Technical Knowledge",
+          "items": [
+            { "name": "Understanding of Software Development", "level": "beginner" },
+            { "name": "Version Control (Git)", "level": "beginner" },
+            { "name": "Basic HTML/CSS", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-manager",
+      "title": "Project Manager",
+      "description": "Plan, execute, and oversee projects to ensure they are completed on time and within budget.",
+      "popularity": 80,
+      "averageSalary": "₹6,00,000 - ₹20,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in any field + PMP certification preferred",
+      "growthPath": ["Senior Project Manager", "Program Manager", "Project Director", "COO"],
+      "skills": [
+        {
+          "category": "Project Management",
+          "items": [
+            { "name": "Agile/Scrum", "level": "intermediate" },
+            { "name": "Waterfall Methodology", "level": "intermediate" },
+            { "name": "Risk Management", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Tools",
+          "items": [
+            { "name": "Jira", "level": "intermediate" },
+            { "name": "Microsoft Project", "level": "intermediate" },
+            { "name": "Trello/Asana", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Leadership",
+          "items": [
+            { "name": "Team Management", "level": "intermediate" },
+            { "name": "Stakeholder Communication", "level": "intermediate" },
+            { "name": "Budget Management", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quality-assurance-engineer",
+      "title": "Quality Assurance Engineer",
+      "description": "Test software applications to identify bugs and ensure quality standards are met.",
+      "popularity": 72,
+      "averageSalary": "₹3,50,000 - ₹14,00,000 per annum",
+      "timeToLearn": "4 months - 1.5 years",
+      "requiredEducation": "Bachelor's in Computer Science, Engineering or related field",
+      "growthPath": ["Senior QA Engineer", "QA Lead", "QA Manager", "Quality Director"],
+      "skills": [
+        {
+          "category": "Testing Types",
+          "items": [
+            { "name": "Manual Testing", "level": "intermediate" },
+            { "name": "Automation Testing", "level": "intermediate" },
+            { "name": "Performance Testing", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Testing Tools",
+          "items": [
+            { "name": "Selenium", "level": "intermediate" },
+            { "name": "Postman", "level": "intermediate" },
+            { "name": "JIRA", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Programming",
+          "items": [
+            { "name": "Java/Python", "level": "beginner" },
+            { "name": "SQL", "level": "beginner" },
+            { "name": "Test Case Design", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "game-developer",
+      "title": "Game Developer",
+      "description": "Create interactive games for various platforms including mobile, PC, and consoles.",
+      "popularity": 60,
+      "averageSalary": "₹3,50,000 - ₹15,00,000 per annum",
+      "timeToLearn": "8 months - 2.5 years",
+      "requiredEducation": "Bachelor's in Computer Science, Game Development or related field",
+      "growthPath": ["Senior Game Developer", "Game Designer", "Technical Director", "Studio Head"],
+      "skills": [
+        {
+          "category": "Game Engines",
+          "items": [
+            { "name": "Unity", "level": "intermediate" },
+            { "name": "Unreal Engine", "level": "intermediate" },
+            { "name": "Godot", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Programming Languages",
+          "items": [
+            { "name": "C#", "level": "intermediate" },
+            { "name": "C++", "level": "intermediate" },
+            { "name": "JavaScript", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Game Development",
+          "items": [
+            { "name": "Game Design Principles", "level": "intermediate" },
+            { "name": "2D/3D Graphics", "level": "intermediate" },
+            { "name": "Physics Implementation", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "systems-analyst",
+      "title": "Systems Analyst",
+      "description": "Analyze computer systems and recommend improvements to increase efficiency and effectiveness.",
+      "popularity": 65,
+      "averageSalary": "₹4,50,000 - ₹16,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Information Systems or related field",
+      "growthPath": ["Senior Systems Analyst", "IT Consultant", "IT Manager", "CIO"],
+      "skills": [
+        {
+          "category": "Systems Analysis",
+          "items": [
+            { "name": "Requirements Analysis", "level": "intermediate" },
+            { "name": "System Design", "level": "intermediate" },
+            { "name": "Process Mapping", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Technical Skills",
+          "items": [
+            { "name": "Database Design", "level": "intermediate" },
+            { "name": "SQL", "level": "intermediate" },
+            { "name": "System Integration", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Tools & Documentation",
+          "items": [
+            { "name": "UML Modeling", "level": "intermediate" },
+            { "name": "Visio", "level": "intermediate" },
+            { "name": "Technical Documentation", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence-engineer",
+      "title": "Artificial Intelligence Engineer",
+      "description": "Develop AI systems and applications that can perform tasks requiring human intelligence.",
+      "popularity": 95,
+      "averageSalary": "₹10,00,000 - ₹35,00,000 per annum",
+      "timeToLearn": "1.5 years - 4 years",
+      "requiredEducation": "Master's in Computer Science, AI, Machine Learning or related field",
+      "growthPath": ["Senior AI Engineer", "AI Research Scientist", "AI Architect", "Chief AI Officer"],
+      "skills": [
+        {
+          "category": "AI/ML Fundamentals",
+          "items": [
+            { "name": "Machine Learning", "level": "advanced" },
+            { "name": "Deep Learning", "level": "advanced" },
+            { "name": "Natural Language Processing", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Programming & Frameworks",
+          "items": [
+            { "name": "Python", "level": "advanced" },
+            { "name": "TensorFlow/PyTorch", "level": "advanced" },
+            { "name": "OpenAI APIs", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Mathematical Foundation",
+          "items": [
+            { "name": "Linear Algebra", "level": "intermediate" },
+            { "name": "Statistics & Probability", "level": "intermediate" },
+            { "name": "Calculus", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "description": "Develop both front-end and back-end components of web applications.",
+      "popularity": 88,
+      "averageSalary": "₹5,00,000 - ₹20,00,000 per annum",
+      "timeToLearn": "8 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science or related field",
+      "growthPath": ["Senior Full Stack Developer", "Tech Lead", "Engineering Manager", "CTO"],
+      "skills": [
+        {
+          "category": "Frontend Development",
+          "items": [
+            { "name": "React.js", "level": "intermediate" },
+            { "name": "HTML/CSS", "level": "intermediate" },
+            { "name": "JavaScript", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Backend Development",
+          "items": [
+            { "name": "Node.js", "level": "intermediate" },
+            { "name": "Express.js", "level": "intermediate" },
+            { "name": "Database Management", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Development Tools",
+          "items": [
+            { "name": "Git", "level": "intermediate" },
+            { "name": "API Development", "level": "intermediate" },
+            { "name": "Cloud Deployment", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robotics-engineer",
+      "title": "Robotics Engineer",
+      "description": "Design, build, and maintain robots and robotic systems for various applications.",
+      "popularity": 70,
+      "averageSalary": "₹5,50,000 - ₹22,00,000 per annum",
+      "timeToLearn": "1 year - 3 years",
+      "requiredEducation": "Bachelor's in Robotics, Mechanical Engineering, Electrical Engineering",
+      "growthPath": ["Senior Robotics Engineer", "Robotics Team Lead", "Principal Engineer", "CTO"],
+      "skills": [
+        {
+          "category": "Programming",
+          "items": [
+            { "name": "C++", "level": "intermediate" },
+            { "name": "Python", "level": "intermediate" },
+            { "name": "ROS (Robot Operating System)", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Engineering",
+          "items": [
+            { "name": "Mechanical Design", "level": "intermediate" },
+            { "name": "Electronics", "level": "intermediate" },
+            { "name": "Control Systems", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Specialized Skills",
+          "items": [
+            { "name": "Computer Vision", "level": "intermediate" },
+            { "name": "Sensor Integration", "level": "intermediate" },
+            { "name": "CAD Software", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iot-developer",
+      "title": "IoT Developer",
+      "description": "Develop applications and systems for Internet of Things devices and smart technologies.",
+      "popularity": 78,
+      "averageSalary": "₹4,50,000 - ₹18,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Electronics, or related field",
+      "growthPath": ["Senior IoT Developer", "IoT Architect", "IoT Solutions Lead", "CTO"],
+      "skills": [
+        {
+          "category": "IoT Platforms",
+          "items": [
+            { "name": "Arduino", "level": "intermediate" },
+            { "name": "Raspberry Pi", "level": "intermediate" },
+            { "name": "AWS IoT", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Programming",
+          "items": [
+            { "name": "C/C++", "level": "intermediate" },
+            { "name": "Python", "level": "intermediate" },
+            { "name": "JavaScript", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Communication Protocols",
+          "items": [
+            { "name": "MQTT", "level": "intermediate" },
+            { "name": "HTTP/HTTPS", "level": "intermediate" },
+            { "name": "Bluetooth/WiFi", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "augmented-reality-developer",
+      "title": "Augmented Reality Developer",
+      "description": "Create immersive AR experiences for mobile apps, games, and enterprise applications.",
+      "popularity": 65,
+      "averageSalary": "₹5,00,000 - ₹20,00,000 per annum",
+      "timeToLearn": "8 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Game Development, or related field",
+      "growthPath": ["Senior AR Developer", "AR Tech Lead", "XR Architect", "Creative Technology Director"],
+      "skills": [
+        {
+          "category": "AR Platforms",
+          "items": [
+            { "name": "ARKit (iOS)", "level": "intermediate" },
+            { "name": "ARCore (Android)", "level": "intermediate" },
+            { "name": "Unity AR Foundation", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Programming",
+          "items": [
+            { "name": "C#", "level": "intermediate" },
+            { "name": "Swift", "level": "intermediate" },
+            { "name": "Kotlin", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "3D Development",
+          "items": [
+            { "name": "3D Modeling", "level": "intermediate" },
+            { "name": "Computer Vision", "level": "intermediate" },
+            { "name": "Spatial Computing", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e-commerce-specialist",
+      "title": "E-commerce Specialist",
+      "description": "Manage and optimize online retail operations, from product listings to customer experience.",
+      "popularity": 75,
+      "averageSalary": "₹3,50,000 - ₹12,00,000 per annum",
+      "timeToLearn": "3 months - 1 year",
+      "requiredEducation": "Bachelor's in Business, Marketing, or related field",
+      "growthPath": ["Senior E-commerce Specialist", "E-commerce Manager", "Digital Commerce Director", "VP E-commerce"],
+      "skills": [
+        {
+          "category": "E-commerce Platforms",
+          "items": [
+            { "name": "Shopify", "level": "intermediate" },
+            { "name": "WooCommerce", "level": "intermediate" },
+            { "name": "Amazon Seller Central", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Digital Marketing",
+          "items": [
+            { "name": "SEO", "level": "intermediate" },
+            { "name": "PPC Advertising", "level": "intermediate" },
+            { "name": "Email Marketing", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Analytics & Optimization",
+          "items": [
+            { "name": "Google Analytics", "level": "intermediate" },
+            { "name": "Conversion Rate Optimization", "level": "intermediate" },
+            { "name": "A/B Testing", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital-forensics-analyst",
+      "title": "Digital Forensics Analyst",
+      "description": "Investigate cybercrimes and analyze digital evidence for legal proceedings.",
+      "popularity": 60,
+      "averageSalary": "₹4,50,000 - ₹16,00,000 per annum",
+      "timeToLearn": "8 months - 2 years",
+      "requiredEducation": "Bachelor's in Computer Science, Cybersecurity, or Criminal Justice",
+      "growthPath": ["Senior Forensics Analyst", "Lead Investigator", "Forensics Manager", "Security Director"],
+      "skills": [
+        {
+          "category": "Forensics Tools",
+          "items": [
+            { "name": "EnCase", "level": "intermediate" },
+            { "name": "FTK (Forensic Toolkit)", "level": "intermediate" },
+            { "name": "Wireshark", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Investigation Skills",
+          "items": [
+            { "name": "Digital Evidence Collection", "level": "intermediate" },
+            { "name": "Network Analysis", "level": "intermediate" },
+            { "name": "Malware Analysis", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Legal Knowledge",
+          "items": [
+            { "name": "Legal Procedures", "level": "intermediate" },
+            { "name": "Report Writing", "level": "intermediate" },
+            { "name": "Court Testimony", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sustainability-consultant",
+      "title": "Sustainability Consultant",
+      "description": "Help organizations implement environmentally friendly practices and meet sustainability goals.",
+      "popularity": 58,
+      "averageSalary": "₹4,00,000 - ₹15,00,000 per annum",
+      "timeToLearn": "6 months - 2 years",
+      "requiredEducation": "Bachelor's in Environmental Science, Business, or related field",
+      "growthPath": ["Senior Sustainability Consultant", "Sustainability Manager", "Chief Sustainability Officer", "Environmental Director"],
+      "skills": [
+        {
+          "category": "Environmental Knowledge",
+          "items": [
+            { "name": "Carbon Footprint Analysis", "level": "intermediate" },
+            { "name": "Life Cycle Assessment", "level": "intermediate" },
+            { "name": "Environmental Regulations", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Business Skills",
+          "items": [
+            { "name": "Project Management", "level": "intermediate" },
+            { "name": "Cost-Benefit Analysis", "level": "intermediate" },
+            { "name": "Stakeholder Engagement", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Sustainability Tools",
+          "items": [
+            { "name": "Sustainability Reporting", "level": "intermediate" },
+            { "name": "Energy Auditing", "level": "intermediate" },
+            { "name": "Green Building Standards", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voice-user-interface-designer",
+      "title": "Voice User Interface Designer",
+      "description": "Design voice interactions for smart speakers, chatbots, and voice-enabled applications.",
+      "popularity": 55,
+      "averageSalary": "₹4,50,000 - ₹16,00,000 per annum",
+      "timeToLearn": "4 months - 1.5 years",
+      "requiredEducation": "Bachelor's in Design, Computer Science, Linguistics, or related field",
+      "growthPath": ["Senior VUI Designer", "Conversation Design Lead", "UX Director", "Head of Design"],
+      "skills": [
+        {
+          "category": "Voice Platforms",
+          "items": [
+            { "name": "Amazon Alexa Skills", "level": "intermediate" },
+            { "name": "Google Assistant Actions", "level": "intermediate" },
+            { "name": "Voice Flow", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Design Skills",
+          "items": [
+            { "name": "Conversation Design", "level": "intermediate" },
+            { "name": "User Research", "level": "intermediate" },
+            { "name": "Prototyping", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Technical Understanding",
+          "items": [
+            { "name": "Natural Language Processing", "level": "beginner" },
+            { "name": "Speech Recognition", "level": "beginner" },
+            { "name": "API Integration", "level": "beginner" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "growth-hacker",
+      "title": "Growth Hacker",
+      "description": "Use creative marketing strategies and data analysis to rapidly grow user base and revenue.",
+      "popularity": 70,
+      "averageSalary": "₹5,00,000 - ₹18,00,000 per annum",
+      "timeToLearn": "4 months - 1.5 years",
+      "requiredEducation": "Bachelor's in Marketing, Business, or related field",
+      "growthPath": ["Senior Growth Hacker", "Head of Growth", "VP Growth", "Chief Marketing Officer"],
+      "skills": [
+        {
+          "category": "Growth Strategies",
+          "items": [
+            { "name": "A/B Testing", "level": "intermediate" },
+            { "name": "Viral Marketing", "level": "intermediate" },
+            { "name": "Product-Market Fit", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Analytics & Data",
+          "items": [
+            { "name": "Google Analytics", "level": "intermediate" },
+            { "name": "Mixpanel", "level": "intermediate" },
+            { "name": "SQL", "level": "beginner" }
+          ]
+        },
+        {
+          "category": "Marketing Channels",
+          "items": [
+            { "name": "Performance Marketing", "level": "intermediate" },
+            { "name": "Content Marketing", "level": "intermediate" },
+            { "name": "Referral Programs", "level": "intermediate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podcast-producer",
+      "title": "Podcast Producer",
+      "description": "Create, edit, and manage podcast content from concept to distribution.",
+      "popularity": 50,
+      "averageSalary": "₹2,50,000 - ₹10,00,000 per annum",
+      "timeToLearn": "2 months - 8 months",
+      "requiredEducation": "Bachelor's in Media, Communications, or related field (optional)",
+      "growthPath": ["Senior Podcast Producer", "Audio Content Director", "Media Production Manager", "Creative Director"],
+      "skills": [
+        {
+          "category": "Audio Production",
+          "items": [
+            { "name": "Audio Editing", "level": "intermediate" },
+            { "name": "Audacity/Adobe Audition", "level": "intermediate" },
+            { "name": "Sound Design", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Content Creation",
+          "items": [
+            { "name": "Storytelling", "level": "intermediate" },
+            { "name": "Interview Techniques", "level": "intermediate" },
+            { "name": "Script Writing", "level": "intermediate" }
+          ]
+        },
+        {
+          "category": "Distribution & Marketing",
+          "items": [
+            { "name": "Podcast Platforms", "level": "intermediate" },
+            { "name": "Social Media Marketing", "level": "intermediate" },
+            { "name": "Audience Analytics", "level": "intermediate" }
+          ]
+        }
+      ]
+    }
+  ]
+}

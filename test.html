@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PathFinder Test</title>
+    <script src="http://localhost:5180/@vite/client" type="module"></script>
+    <script type="module" src="http://localhost:5180/src/main.jsx"></script>
+</head>
+<body>
+    <div id="root">Loading...</div>
+    <script>
+        // Log any errors to see what's happening
+        window.addEventListener('error', function(e) {
+            console.error('Error:', e.error);
+        });
+        
+        // Check if React is mounting
+        setTimeout(() => {
+            const root = document.getElementById('root');
+            console.log('Root content:', root.innerHTML);
+            console.log('Root children:', root.children.length);
+        }, 2000);
+    </script>
+</body>
+</html>
