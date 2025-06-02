@@ -29,10 +29,7 @@ PathFinder is a modern, visually stunning React.js web application designed to h
 - Responsive navigation and UI
 - Modern glassmorphism theme and color palette
 - Smooth transitions and hover effects
-
-## 📸 Screenshot
-
-> ![PathFinder Home Screenshot](./assets/pathfinder-home-screenshot.png)
+- 
 
 ## 🚀 Get Started
 
